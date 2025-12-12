@@ -1,9 +1,6 @@
-pandas
-numpy
-scikit-learn
 streamlit
-pygments
-rich
-markdown-it-py
-mdurl
+pandas
+matplotlib
+plotly
+seaborn
 
